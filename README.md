@@ -1,2 +1,5 @@
-# IEFPong
+<img width="625" height="155" alt="iefpong2" src="https://github.com/user-attachments/assets/b53946a0-679c-4d5e-99ca-6588f9b3c22f" />
+
+
+
 O meu primeiro projeto de código. É uma recriação do icónico jogo de arcadas Pong, escrito em C++ e jogável no terminal do Windows. O título é um trocadilho com o nome da instituição na qual estou a realizar o meu curso de desenvolvimento de Software.
